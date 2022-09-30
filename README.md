@@ -1,7 +1,7 @@
-# Adult Data
+# Income Prediction
 
 # Objective:
-Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
+Predict whether income exceeds $50K/yr based on census data.
 
 # Attribute Information:
 
