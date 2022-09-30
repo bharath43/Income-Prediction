@@ -1,12 +1,10 @@
 # adult
 
-Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
+# Objective:Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
 
-Attribute Information:
+# Attribute Information:
 
 Listing of attributes:
-
->50K, <=50K.
 
 age: continuous.
 
